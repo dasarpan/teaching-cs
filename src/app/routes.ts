@@ -22,5 +22,5 @@ export const router = createBrowserRouter([
     Component: NotFound,
   },
 ], {
-  basename: '/teaching-cs',
+  basename: '/teaching-cs/',
 });
